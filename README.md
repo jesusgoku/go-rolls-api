@@ -61,4 +61,5 @@ curl -X DELETE http://localhost:5000/sushi/1
 
 ## More info
 
+- [Build a RESTFul API with GO](https://medium.com/@johnteckert/building-a-restful-api-with-go-part-1-9e234774b14d)
 - [Docker Multi-Stage Build](https://docs.docker.com/develop/develop-images/multistage-build/)
